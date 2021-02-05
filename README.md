@@ -7,4 +7,4 @@ Authors: Peng Zhang, Mingqiang Ning, Yan Zhou
 
 This project is currently part of work in a manusript submitted to IEEE Geoscience and Remote Sensing. If you have any quenstion during utilization, please contact us.
 
-The baseline code and weight has been submitted to [Dr Peng Zhang's repository](https://github.com/automlresearch/self_trained_detector)
+The baseline code and weight has been submitted to [Dr Peng Zhang's repository](https://github.com/automlresearch/autodetector)
