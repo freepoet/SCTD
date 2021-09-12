@@ -1,7 +1,7 @@
 # SCTD
 Dataset Name: Sonar Common Target Detection Dataset (SCTD) 1.0
 
-Format: Pascal VOC with xml annotations.
+Format: Pascal VOC with xml annotations. (voc2coco.py is also available)
 
 Authors: Peng Zhang, Mingqiang Ning, Yan Zhou, Dandan Liu
 
