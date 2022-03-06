@@ -3,7 +3,7 @@ Dataset Name: Sonar Common Target Detection Dataset (SCTD) 1.0
 
 Format: Pascal VOC with xml annotations. (voc2coco.py is also available)
 
-Authors: Peng Zhang, Mingqiang Ning, Yan Zhou, Dandan Liu
+Authors: Dr. Peng Zhang, Dr. Mingqiang Ning, Zhisheng Zhang, Han Li, Yan Zhou, Prof. Yue Fan, Prof. Dandan Liu
 
 This project is currently part of work in a manusript submitted to IEEE Geoscience and Remote Sensing. If you have any quenstion during utilization, please contact us.
 
@@ -21,3 +21,9 @@ If you use the SCTD dataset, please cite our paper,
   year={2021}
 }
 ```
+
+# Acknowledgement
+Our financial support is from Prof. Jinsong Tang, Prof. Heping Zhong, Zhejiang Yusheng Ocean Technology Co., Ltd
+
+## SCTD Community
+SCTD serves for sonar image target recognition researchs by scientists from Tsinghua University, Fudan University, Shanghai University, Hohai University, Jiangxi University of Technology, et al.
