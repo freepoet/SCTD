@@ -26,4 +26,4 @@ If you use the SCTD dataset, please cite our paper,
 Our financial support is from Prof. Jinsong Tang, Prof. Heping Zhong, Zhejiang Yusheng Ocean Technology Co., Ltd
 
 ## SCTD Community
-SCTD serves for sonar image target recognition researchs by scientists from Tsinghua University, Fudan University, Shanghai University, Hohai University, Jiangxi University of Technology, et al.
+SCTD serves for sonar image target recognition researchs of scientists from Tsinghua University, Fudan University, Shanghai University, Hohai University, Jiangxi University of Technology, et al.
