@@ -14,7 +14,7 @@ The baseline code and weight has been submitted to [Dr Peng Zhang's repository](
 If you use the SCTD dataset, please cite our paper,
 
 ```
-@article{mmdetection,
+@article{AutoDL detector,
   title   = {Self-trained Target Detection of Radar and Sonar Images using Automatic Deep Learning},
   author  = {Peng Zhang, Jinsong Tang, Heping Zhong, Mingqiang Ning, Dandan Liu and Ke Wu},
   journal= {IEEE Transactions on Geoscience and Remote Sensing},
